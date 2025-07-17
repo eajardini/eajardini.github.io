@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Apostila DW3
-permalink: /apostilas/dw3/
+
 ---
+
+<!-- permalink: /apostilas/dw3  -->
 
 ## IFSP campus Votuporanga  
 
