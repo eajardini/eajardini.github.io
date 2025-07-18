@@ -12,4 +12,4 @@ This is my homepage.
   
 **2025-02**  
   
-[Disciplina de Desenvolvimento Web 3](https://eajardini.github.io/apostilas/dw3)
+[Disciplina de Desenvolvimento Web 3](https://github.com/eajardini/eajardini.github.io/apostilas/dw3/index.md)
