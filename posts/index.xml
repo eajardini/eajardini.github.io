@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo Blog CMS e outros</title>
+    <link>https://eajardini.github.io.git/posts/</link>
+    <description>Recent content in Posts on Hugo Blog CMS e outros</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Jul 2025 20:12:18 -0300</lastBuildDate>
+    <atom:link href="https://eajardini.github.io.git/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeiro post</title>
+      <link>https://eajardini.github.io.git/posts/meupost/</link>
+      <pubDate>Tue, 22 Jul 2025 20:12:18 -0300</pubDate>
+      <guid>https://eajardini.github.io.git/posts/meupost/</guid>
+      <description>&lt;h2 id=&#34;primeiro-post&#34;&gt;Primeiro post&lt;/h2&gt;&#xA;&lt;p&gt;Ensino de programa:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;fmt&lt;/span&gt;.println(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Testando o Hugo CMS&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol&gt;&#xA;&lt;li&gt;Lista 01&lt;/li&gt;&#xA;&lt;li&gt;Lista 02&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>
